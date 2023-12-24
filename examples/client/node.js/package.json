@@ -11,6 +11,8 @@
   "author": "Alan Shaw",
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
+    "dotenv": "^16.3.1",
+    "files-from-path": "^1.0.4",
     "ipfs-car": "^0.6.1",
     "nft.storage": "^5.1.3"
   }
